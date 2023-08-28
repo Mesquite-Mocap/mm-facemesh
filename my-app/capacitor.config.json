@@ -1,0 +1,11 @@
+{
+  "appId": "cc.mesquite.facemesh",
+  "appName": "mm-facemesh",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
